@@ -30,7 +30,7 @@ function Login() {
       className="min-h-screen bg-cover bg-center flex items-center justify-center"
       style={{
         backgroundImage:
-          "url('https://media.istockphoto.com/id/1350595566/photo/cyber-security-firewall-interface-protection-concept-businesswoman-protecting-herself-from.jpg?s=2048x2048&w=is&k=20&c=CD1OP57YoLC7NEs-L5RCUDOstpFec7Kbgr0PtC1dwUI=')",
+          "url('https://images.unsplash.com/photo-1483422166412-1d8a821cd97c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8NnwzMjM5MTd8fGVufDB8fHx8fA%3D%3D')",
       }}
     >
       <div className="bg-white bg-opacity-90 p-8 rounded-lg shadow-lg max-w-md w-full">

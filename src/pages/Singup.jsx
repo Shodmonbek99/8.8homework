@@ -29,7 +29,7 @@ function Singup() {
     <div
       className="min-h-screen bg-cover bg-center flex items-center justify-center"
       style={{
-        backgroundImage: "url('https://media.istockphoto.com/id/1420039900/photo/cyber-security-ransomware-email-phishing-encrypted-technology-digital-information-protected.jpg?s=2048x2048&w=is&k=20&c=H2DW0WcG6v9JZow-0XW31UVcCV63q41zpJk-d8kmIY0=')",
+        backgroundImage: "url('https://images.unsplash.com/photo-1660748054768-33282c43c318?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDR8fHxlbnwwfHx8fHw%3D')",
       }}
     >
       <div className="bg-white bg-opacity-90 p-8 rounded-lg shadow-lg max-w-md w-full">
