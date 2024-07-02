@@ -12,7 +12,7 @@ function useLogin() {
   const loginWithEmailAndPassword = (actionData) => {
     signInWithEmailAndPassword(auth, actionData.email, actionData.password)
       .then((userCredential) => {
-        // Signed in
+   
         const user = userCredential.user;
         dispatch({ type: "LOG_IN", payload: user });
         toast.success("Welcome");

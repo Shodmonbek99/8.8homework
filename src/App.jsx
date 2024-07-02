@@ -73,7 +73,6 @@ function App() {
       dispatch({ type: "AUTH_READY" });
     });
 
-    //
     async function getData() {
       const allData = [];
       const querySnapshot = await getDocs(collection(db, "products"));
